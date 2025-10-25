@@ -4,6 +4,7 @@ Project Overview
 
 This project involves the analysis of sales and returns data for Maven Market over the years 1997–1998, covering Canada, Mexico, and the United States. The analysis was performed using Power BI to provide actionable insights into revenue, customer behavior, product performance, and store optimization.
 
+
 Dataset Information
 
 Files: Sales and Returns datasets (1997–1998)
@@ -26,19 +27,21 @@ Returns – Returned items
 
 StoreID – Store identifier
 
+
 Dashboard Highlights
 
-Revenue Analysis: Measures total revenue by region, product, and store.
+1.Revenue Analysis: Measures total revenue by region, product, and store.
 
-Returns Analysis: Identifies patterns in returned products and mitigates return rates.
+2.Returns Analysis: Identifies patterns in returned products and mitigates return rates.
 
-Customer Segmentation: Categorizes customers based on purchase behavior.
+3.Customer Segmentation: Categorizes customers based on purchase behavior.
 
-Regional Performance: Compares sales performance across Canada, Mexico, and the US.
+4.Regional Performance: Compares sales performance across Canada, Mexico, and the US.
 
-Store Optimization: Helps identify high-performing and low-performing stores.
+5.Store Optimization: Helps identify high-performing and low-performing stores.
 
-Interactive Visuals: Includes maps, bar charts, line charts, KPIs, and matrices for detailed insights.
+6.Interactive Visuals: Includes maps, bar charts, line charts, KPIs, and matrices for detailed insights.
+
 
 Purpose
 
@@ -57,6 +60,3 @@ Usage
 1.Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
 
 2.Use the provided datasets for further analysis or modeling.
-Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
-
-Use the provided datasets for further analysis or modeling.
